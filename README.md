@@ -3,7 +3,9 @@
 - 🌱 Currently learning: Golang, MongoDB, machine learning applications, and how to use Anki.
 - 📫 Reach me at julialwa [at] cs.washington.edu!
 
-<!---
-julialwang/julialwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/julialwang/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julialwang&show_icons=true&include_all_commits=true&hide=stars" />
+</a>
+<a href="https://github.com/julialwang/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialwang&layout=compact" />
+</a>
