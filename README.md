@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @julialwang, university student @ UW studying computer science and mathematics.
 - 👀 I’m interested in database design, human-computer interaction, and all sorts of APIs.
-- 🌱 Currently learning: Vega-Lite, AI applications to computer vision, security foundations, and bouldering.
+- 🌱 Currently learning: SimpleDB, AI applications to computer vision, security foundations, and bouldering.
 - 📫 Feel free to reach me at julialwa [at] cs.washington.edu!
 
 <a href="https://github.com/julialwang/github-readme-stats">
