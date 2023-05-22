@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @julialwang, university student @ UW studying computer science and mathematics.
 - 👀 I’m interested in systems design, human-computer interaction, and applications to robotics!
-- 🌱 Currently learning: cryptography, computer vision, autonomous robotics, and bouldering.
+- 🌱 Currently learning: computer graphics, virtual reality systems, browser engineering, and badminton.
 - 📫 Feel free to reach me at julialwa [at] cs.washington.edu!
 
 <a href="https://github.com/julialwang/github-readme-stats">
