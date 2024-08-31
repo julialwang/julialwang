@@ -1,5 +1,5 @@
-- 👋 Hi! I’m @julialwang, computer science alum from the University of Washington. Currently SWE @ MS.
-- 🌱 Currently learning: Azure, corporate lingo, and snowboarding.
+- 👋 Hi! I’m @julialwang, a software engineer currently @ Microsoft. Computer science alum from the University of Washington.
+- 🌱 Currently learning: Azure, corporate lingo, and wakesurfing.
 - 📫 Feel free to reach me at julialwa.cs [at] gmail.com!
 
 <a href="https://github.com/julialwang/github-readme-stats">
